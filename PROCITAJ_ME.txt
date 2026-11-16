@@ -1,0 +1,9 @@
+GRAMOFONSKE PLOČE – SEO DORADA
+Autor: Jelena Bojović, IT67/24
+
+Postavljanje: raspakovati ZIP i kopirati sadržaj DIREKTNO u glavni direktorijum GitHub repozitorijuma. Ne postavljati ZIP kao fajl.
+
+Pre objave: šest početnih SEO analiza (PDF) je sačuvano.
+Posle objave: istim SEO alatom ponovo analizirati šest URL adresa, sačuvati PDF i uneti završne rezultate u Word.
+Proveriti sajt, slike, meni, favicon, Facebook Share, sitemap.xml i robots.txt.
+Napomena: naziv trenutnog repozitorijuma gramofonske-ploce nije prema obrascu iz zahteva profesorke. Pri preimenovanju menjaju se sve pune adrese u HTML, XML i TXT fajlovima.

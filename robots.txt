@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rakicjelena991-sys.github.io/gramofonske-ploce/sitemap.xml
